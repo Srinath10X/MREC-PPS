@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-	int a,b,count=0;i,j,primecount=0;
+	int a,b,count=0,i,j,primecount=0;
 	printf("Enter the range or the limits : ");
 	scanf("%d %d",&a,&b);
 	for(i=a;i<=b;i++){
